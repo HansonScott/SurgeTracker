@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{66A1DAB6-4A75-46FA-8956-AF72BD1C8939}|Default">
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/scotthanson/Projects/SurgeTracker/AppDelegate.cs" relfile="AppDelegate.cs" line="67" column="1" />
+      <Breakpoint file="/Users/scotthanson/Projects/SurgeTracker/MainViewController.cs" relfile="MainViewController.cs" line="59" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.SurgeTracker PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
